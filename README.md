@@ -1,3 +1,3 @@
 # wwwpdebruinnet
 
-Source files for static website
+Source files, using GitHub actions, to static website
